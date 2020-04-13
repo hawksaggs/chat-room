@@ -1,0 +1,2 @@
+Broadcast a message to connected users when someone connects or disconnects.
+Don’t send the same message to the user that sent it himself. Instead, append the message directly as soon as he presses enter.

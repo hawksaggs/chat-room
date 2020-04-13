@@ -1,0 +1,26 @@
+{
+  "name": "socket-chat-example",
+  "version": "1.0.0",
+  "description": "Socket chat example with private message, group room chat, single one to one chat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "socket.io",
+    "chat",
+    "nodejs",
+    "express",
+    "mongodb"
+  ],
+  "author": "Ayush Mittal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
